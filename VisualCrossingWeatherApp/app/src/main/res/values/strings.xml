@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Visual Crossing Weather App</string>
+    <string name="night">Night</string>
+    <string name="evening">Evening</string>
+    <string name="afternoon">Afternoon</string>
+    <string name="morning">Morning</string>
+</resources>
